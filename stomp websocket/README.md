@@ -1,3 +1,4 @@
+# websocket-chat-server
 ## 🍃 Stomp 🍃
 > websocket의 프로세스를 좀 더 고도화하고 메세징에 좀 더 최적화된 방식을 구현하기 위해 적용
 
