@@ -1,4 +1,4 @@
-package com.websocket.chat.dto;
+package com.websocket.chat.model;
 
 import com.websocket.chat.service.ChatService;
 import lombok.Builder;
